@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The First Printed Translations into English of the Great Foreign Classics
 
   A Supplement to Text-Books of English Literature'
